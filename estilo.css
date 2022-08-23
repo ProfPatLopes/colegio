@@ -5,8 +5,8 @@
 
 .boasvindas{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: medium;
-    color: #31a74e;
+    font-size: small; 
+       color: #31a74e;
     text-align: center;
     display: inline;
 }
