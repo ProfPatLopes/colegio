@@ -1,3 +1,19 @@
 .img{
-    width: 50%;
+    width: 30%;
+}
+
+.boasvindas{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    background-color: #31a74e
+}
+.linha {
+
+    display: inline;
+    
+}
+.bloco {
+
+    display: block;
+        
 }
