@@ -4,7 +4,6 @@
 .img2{
     width: 50%;    
 }
-
 body{
     background-color:rgba(160, 149, 100);
     font-family: 'Lucida Sans';
@@ -13,6 +12,11 @@ body{
     text-align: center;
     display: inline;
     font-size: 14px;
+}
+h4{
+    
+    font-size: x-small;
+       
 }
 .linha {
     background-color:rgb(66, 56, 10);
