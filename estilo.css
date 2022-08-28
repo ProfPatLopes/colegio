@@ -1,3 +1,24 @@
+[data-tooltip] {
+    position: relative;
+    font-weight: bold;
+  }
+  
+  [data-tooltip]:after {
+    display: none;
+    position: absolute;
+    top: -5px;
+    padding: 5px;
+    border-radius: 3px;
+    left: calc(100% + 2px);
+    content: attr(data-tooltip);
+    white-space: nowrap;
+    background-color: rgb(66, 56, 10);
+    color: White;
+  }
+  
+  [data-tooltip]:hover:after {
+    display: block;
+  }
 .img{
     width: 150px;    
 }
