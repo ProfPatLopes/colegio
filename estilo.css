@@ -19,13 +19,7 @@ body{
 .linha {
 
     background-color:rgb(66, 56, 10);
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    color: #fdfdfd;
-    
-    display: inline;
-    font-size: 14px;  
-    
+       
 }
 .bloco {
     display: block;
