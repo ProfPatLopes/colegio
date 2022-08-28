@@ -1,10 +1,8 @@
 .img{
-    width: 150px;
-    
+    width: 150px;    
 }
 .img2{
-    width: 30%;
-    
+    width: 30%;    
 }
 
 body{
@@ -17,15 +15,11 @@ body{
     font-size: 14px;
 }
 .linha {
-
     background-color:rgb(66, 56, 10);
-       
 }
 .bloco {
     display: block;
-    
 }
 .itens {
-    
     background-color: rgb(211, 204, 174);
 }
