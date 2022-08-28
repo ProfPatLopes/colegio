@@ -6,6 +6,15 @@
     width: 40%;
     
 }
+tbody{
+    background-color:rgb(160, 149, 100);
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    color: #fdfdfd;
+    text-align: center;
+    display: inline;
+    font-size: 14px;
+}
 body{
     background-color:rgb(160, 149, 100);
     font-family: 'Lucida Sans';
