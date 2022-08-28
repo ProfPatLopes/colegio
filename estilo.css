@@ -16,7 +16,7 @@ tbody{
     font-size: 14px;
 }
 body{
-    background-color:rgb(160, 149, 100);
+    background-color:rgba(160, 149, 100);
     font-family: 'Lucida Sans';
     font-size: small; 
     color: #fdfdfd;
@@ -31,8 +31,8 @@ body{
 }
 .bloco {
     display: block;
-        
+    (160, 149, 100)
 }
 .itens {
-    background-color: rgb(209, 207, 212);
+    background-color: rgb(160, 149, 100,0.63);
 }
