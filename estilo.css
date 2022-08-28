@@ -13,9 +13,14 @@ body{
     display: inline;
     font-size: 14px;
 }
-h4{
+h3{
     
-    font-size: xx-small;
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    color: #fdfdfd;
+    text-align: center;
+    display: inline;
+    font-size: 14px;
        
 }
 .linha {
