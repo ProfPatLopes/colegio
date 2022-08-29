@@ -20,10 +20,13 @@
     display: block;
   }
 .img{
-    width: 150px;    
+    width: 100px;    
 }
 .img2{
     width: 50%;    
+}
+.img3{
+    width: 150%;    
 }
 body{
     background-color:rgba(160, 149, 100);
