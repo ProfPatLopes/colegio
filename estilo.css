@@ -51,7 +51,17 @@ h3{
        
 }
 .linha {
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    font-size: 12px;
     background-color:rgb(66, 56, 10);
+}
+.lista {
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    text-align: left;
+    font-size: 12px;
+    color:rgb(66, 56, 10);
 }
 .bloco {
     display: block;
