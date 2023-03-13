@@ -56,6 +56,14 @@ h3{
     font-size: 12px;
     background-color:rgb(66, 56, 10);
 }
+.menu {
+    text-align: right;
+    font-family: 'Lucida Sans';
+    color: #fdfdfd;
+    font-size: small; 
+    font-size: 14px;
+    background-color:rgb(66, 56, 10);
+}
 .lista {
     font-family: 'Lucida Sans';
     font-size: small; 
