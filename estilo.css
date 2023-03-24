@@ -88,6 +88,15 @@ h3{
     font-size: 14px;
        
 }
+footer{
+    position: absolute;
+    width: 1440px;
+    height: 27px;
+    left: 1px;
+    top: 882px;
+    background-color:rgb(66, 56, 10);
+}
+
 .linha {
     font-family: 'Lucida Sans';
     font-size: small; 
