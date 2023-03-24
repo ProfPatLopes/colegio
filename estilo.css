@@ -131,7 +131,7 @@ background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%, #42380A 37.5%);
     top: 0px;
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
-. turma{
+.turma{
     position: absolute;
 width: 200px;
 height: 39px;
