@@ -137,6 +137,7 @@ background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%, #42380A 37.5%);
     text-align: left;
     font-size: 12px;
     color:rgb(66, 56, 10);
+    background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%,  #42380A 37.5%);
 }
 .bloco {
     display: block;
