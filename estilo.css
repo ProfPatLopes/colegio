@@ -180,6 +180,7 @@ background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
 }
 .lista {
+    position: absolute;
     font-family: 'Lucida Sans';
     font-size: small; 
     text-align: left;
