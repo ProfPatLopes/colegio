@@ -67,11 +67,18 @@ h3{
     font-size: 14px;
     background-color:rgb(66, 56, 10);
 }
-.apre {
+.apre {/*
     font-family: 'Lucida Sans';
     font-size: small;     
     font-size: 12px;
+    color:rgb(66, 56, 10);*/
     color:rgb(66, 56, 10);
+    position: absolute;
+    width: 1440px;
+    height: 114px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
 .lista {
     font-family: 'Lucida Sans';
