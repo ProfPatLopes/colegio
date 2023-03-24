@@ -114,6 +114,17 @@ footer{
     top: 882px;
     background-color:rgb(66, 56, 10);
 }
+.rodape{
+
+    position: absolute;
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    text-align: left;
+    font-size: 12px;
+    color:rgb(66, 56, 10);
+    background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%,  #42380A 37.5%);
+   
+}
 
 .linha {
     font-family: 'Lucida Sans';
