@@ -20,23 +20,28 @@
     display: block;
   }
 
-  .prof{
-    /*width: 25%;   */
-    position: absolute;
-    width: 111px;
-    height: 117px;
-    left: 73px;
-    top: -3px;
+.prof{
+position: absolute;
+width: 111px;
+height: 117px;
+left: 73px;
+top: -3px;
+
+background: url(prof);
 
 }
 .apre {
     color:rgb(66, 56, 10);
     position: absolute;
     width: 1440px;
-    height: 114px;
-    left: 0px;
-    top: 0px;
+    height: 23px;
+    left: 287px;
+    top: 32px;
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
+
+    position: absolute;
+
+
 }
 
 
