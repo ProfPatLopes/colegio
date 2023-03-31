@@ -123,12 +123,15 @@ background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
     display: block;
 }
 .itens {
-    background-color: rgb(211, 204, 174);
+    
+
     position: absolute;
-    width: 1454px;
-    height: 762px;
-    left: -6px;
-    top: 147px; 
+    width: 587px;
+    height: 1227px;
+    left: 218px;
+    top: 115px;
+
+
 }
 footer{
     position: absolute;
