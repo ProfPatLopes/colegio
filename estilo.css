@@ -1,63 +1,14 @@
-[data-tooltip] {
-    position: relative;
-    font-weight: bold;
-  }
-  
-  [data-tooltip]:after {
-    display: none;
-    position: absolute;
-    top: -5px;
-    padding: 5px;
-    border-radius: 3px;
-    left: calc(100% + 2px);
-    content: attr(data-tooltip);
-    white-space: nowrap;
-    background-color: rgb(66, 56, 10);
-    color: White;
-  }
-  
-  [data-tooltip]:hover:after {
-    display: block;
-  }
-.oi {
-
-    position: absolute;
-    width: 1000px;
-    height: 23px;
-    left: 287px;
-    top: 32px;
-
-    font-family: 'Inter';
-    font-style: italic;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 29px;
-
-    color: #FFFFFF;
-
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-}
-.prof{
-position: absolute;
-width: 111px;
-height: 117px;
-left: 73px;
-top: -3px;
-
-background: url(oiprof);
-
-}
 .apre {
     
     position: absolute;
-    width: 1440px;
-    height: 23px;
-    left: 287px;
-    top: 32px;
-    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
+    width: 1024px;
+    height: 90px;
+    right: 0px;
+    bottom: 1350px;
+    
+    background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
 
-    position: absolute;
+
     font-family: 'Inter';
     font-style: italic;
     font-weight: 400;
@@ -66,27 +17,34 @@ background: url(oiprof);
     
     color: #FFFFFF;
     
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+   
+}
+
+.menu {
+
+    position: absolute;
+width: 1024px;
+height: 25px;
+left: 0px;
+top: 90px;
+
+background: #63562B;
+}
+.prof{
+    position: absolute;
+    width: 99px;
+    height: 63px;
+    left: 218px;
+    top: 14px;
+
+background: url(oiprof);
+
 
 }
 
 
 
-.img{
-    width: 100px;    
-}
-.img4{
-    width: 120px;    
-}
-.img5{
-    width: 25%;    
-}
-.img2{
-    width: 50%;    
-}
-.img3{
-    width: 150px;    
-}
+
 body{
     background-color:rgba(160, 149, 100);
     font-family: 'Lucida Sans';
@@ -109,49 +67,22 @@ h3{
 
 
 
-.linha {
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    font-size: 12px;
-    /*background-color:rgb(66, 56, 10);*/
-    position: absolute;
-width: 1440px;
-height: 114px;
-left: 0px;
-top: 919px;
-
-background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%, #42380A 37.5%);
+.img{
+    width: 100px;    
 }
-.menu {
-    text-align: right;
-    font-family: 'Lucida Sans';
-    color: #fdfdfd;
-    font-size: small; 
-    font-size: 14px;
-/*background-color:rgb(66, 56, 10);*/
-
-    position: absolute;
-    width: 1024px;
-    height: 25px;
-    left: 0px;
-    top: 90px;
-    
-    background: #63562B;
-
+.img4{
+    width: 120px;    
 }
-.apre {/*
-    font-family: 'Lucida Sans';
-    font-size: small;     
-    font-size: 12px;
-    color:rgb(66, 56, 10);*/
-    color:rgb(66, 56, 10);
-    position: absolute;
-    width: 1024px;
-    height: 90px;
-    right: 0px;
-    bottom: 1350px;
-    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
+.img5{
+    width: 25%;    
 }
+.img2{
+    width: 50%;    
+}
+.img3{
+    width: 150px;    
+}
+
 .turma{
     position: absolute;
 width: 200px;
