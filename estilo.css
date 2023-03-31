@@ -57,7 +57,7 @@ background: url(oiprof.png);
 .lateral1{
     position: absolute;
     width: 219px;
-    height: 764px;
+    height: 475px;
     left: 0px;
     top: 115px;
     
@@ -177,24 +177,16 @@ backdrop-filter: blur(2px);
     
     color: #FFFFFF;
 }
-.lateral1 {
+.lateral2 {
 position: absolute;
 width: 287px;
-height: 761px;
+height: 475px;
 left: 1px;
 top: 148px;
 background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
 }
-.lateral2{
-position: absolute;
-width: 292px;
-height: 764px;
-left: 1148px;
-top: 148px;
-background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
-}
 .itens {
     
 
