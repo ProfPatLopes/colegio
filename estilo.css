@@ -14,6 +14,25 @@
 
     background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
 }
+.ola{
+    position: absolute;
+    width: 969px;
+    height: 23px;
+    left: 288px;
+    top: 14px;
+    
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
 p{
     position: absolute;
 width: 969px;
@@ -24,7 +43,7 @@ top: 32px;
 font-family: 'Inter';
 font-style: italic;
 font-weight: 400;
-font-size: 24px;
+font-size: 20px;
 line-height: 29px;
 
 color: #FFFFFF;
@@ -189,15 +208,11 @@ background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
 
 .itens {
-    
-
     position: absolute;
     width: 587px;
     height: 1227px;
     left: 218px;
     top: 115px;
-
-
 }
 footer{
     font-family: 'Inter';
