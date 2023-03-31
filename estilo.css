@@ -56,10 +56,10 @@ background: url(oiprof.png);
 
 .lateral1{
     position: absolute;
-    width: 219px;
-    height: 475px;
-    left: 0px;
-    top: 115px;
+width: 287px;
+height: 475px;
+left: 1px;
+top: 148px;
     
     background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
 
@@ -161,6 +161,15 @@ backdrop-filter: blur(2px);
     
     color: #FFFFFF;
 }
+.lateral2 {
+    position: absolute;
+    width: 292px;
+    height: 475px;
+    left: 1148px;
+    top: 145px;
+background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
+
+}
 .ativ2{
     position: absolute;
     width: 59px;
@@ -177,15 +186,7 @@ backdrop-filter: blur(2px);
     
     color: #FFFFFF;
 }
-.lateral2 {
-position: absolute;
-width: 287px;
-height: 475px;
-left: 1px;
-top: 148px;
-background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
-}
 
 .itens {
     
