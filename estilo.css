@@ -1,14 +1,5 @@
 .apre {
     
-    position: absolute;
-    width: 1024px;
-    height: 90px;
-    right: 0px;
-    bottom: 1350px;
-    
-    background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
-
-
     font-family: 'Inter';
     font-style: italic;
     font-weight: 400;
@@ -16,6 +7,13 @@
     line-height: 29px;
     
     color: #FFFFFF;
+    position: absolute;
+width: 1024px;
+height: 90px;
+right: 0px;
+bottom: 1350px;
+
+background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
 }
 
 .menu {
