@@ -106,25 +106,8 @@ h3{
     font-size: 14px;
        
 }
-footer{
-    position: absolute;
-    width: 1440px;
-    height: 27px;
-    left: 1px;
-    top: 882px;
-    background-color:rgb(66, 56, 10);
-}
-.rodape{
 
-    position: absolute;
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    text-align: left;
-    font-size: 12px;
-    color:rgb(66, 56, 10);
-    background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%,  #42380A 37.5%);
-   
-}
+
 
 .linha {
     font-family: 'Lucida Sans';
@@ -199,6 +182,27 @@ top: 148px;
 background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
 }
+
+.bloco {
+    display: block;
+}
+.itens {
+    background-color: rgb(211, 204, 174);
+    position: absolute;
+    width: 1454px;
+    height: 762px;
+    left: -6px;
+    top: 147px; 
+}
+footer{
+    position: absolute;
+width: 1024px;
+height: 25px;
+left: 0px;
+top: 1342px;
+
+background: #63562B;
+}
 .lista {
     
     font-family: 'Lucida Sans';
@@ -214,15 +218,4 @@ background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
     top: 1367px;    
     background: linear-gradient(180deg, rgba(99, 86, 43, 0) 0%, #63562B 100%);
 
-}
-.bloco {
-    display: block;
-}
-.itens {
-    background-color: rgb(211, 204, 174);
-    position: absolute;
-    width: 1454px;
-    height: 762px;
-    left: -6px;
-    top: 147px; 
 }
