@@ -55,7 +55,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0
 
     position: absolute;
     left: 0px;
-    top: 90px;
+    top: 119px;
 
     width: 1440px;
     height: 27px;
@@ -68,48 +68,43 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0
     left: 218px;
     top: 14px;
 
-background: url(oiprof.png);
-
-
+    background: url(oiprof.png);
 }
 
 .lateral1{
     position: absolute;
-width: 287px;
-height: 475px;
-left: 1px;
-top: 148px;
+    width: 287px;
+    height: 475px;
+    left: 1px;
+    top: 148px;
     
     background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
-
 }
 
 .turmas{
     position: absolute;
-width: 200px;
-height: 39px;
-left: 22px;
-top: 175px;
+    width: 200px;
+    height: 39px;
+    left: 22px;
+    top: 175px;
 
-font-family: 'Inter';
-font-style: italic;
-font-weight: 400;
-font-size: 32px;
-line-height: 39px;
-/* identical to box height */
-
-
-color: #FFFFFF;
-
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
-backdrop-filter: blur(2px);
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(2px);
 }
+
 .turma{
     position: absolute;
-width: 59px;
-height: 24px;
-left: 22px;
-top: 227px;
+    width: 59px;
+    height: 24px;
+    left: 22px;
+    top: 227px;
     
     font-family: 'Inter';
     font-style: italic;
@@ -120,6 +115,7 @@ top: 227px;
     
     color: #FFFFFF;
 }
+
 body{
     /*background-color:rgba(160, 149, 100);
     font-family: 'Lucida Sans';
@@ -144,8 +140,6 @@ body{
 .img3{
     width: 150px;    
 }
-
-
 
 .ativ{
     position: absolute;
@@ -174,9 +168,10 @@ backdrop-filter: blur(2px);
     height: 475px;
     left: 1148px;
     top: 145px;
-background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
+    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
 }
+
 .ativ2{
     position: absolute;
     width: 59px;
@@ -194,24 +189,23 @@ background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
     color: #FFFFFF;
 }
 
-
 .itens {
     position: absolute;
-width: 860px;
-height: 453px;
-left: 288px;
-top: 147px;
+    width: 860px;
+    height: 453px;
+    left: 288px;
+    top: 147px;
 }
+
 footer{
     position: absolute;
-width: 1440px;
-height: 27px;
-left: -1px;
-top: 600px;
-
-
+    width: 1440px;
+    height: 27px;
+    left: -1px;
+    top: 600px;
     background: #63562B;
 }
+
 .lista {
     
     font-family: 'Lucida Sans';
@@ -221,10 +215,10 @@ top: 600px;
     color:rgb(66, 56, 10);
    
     position: absolute;
-width: 1440px;
-height: 114px;
-left: 1px;
-top: 625px;  
+    width: 1440px;
+    height: 114px;
+    left: 1px;
+    top: 625px;  
     background: linear-gradient(180deg, rgba(99, 86, 43, 0) 0%, #63562B 100%);
 
 }
