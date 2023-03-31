@@ -37,7 +37,7 @@ background: url(oiprof.png);
 
 }
 
-.lateral{
+.lateral1{
     position: absolute;
     width: 219px;
     height: 764px;
@@ -87,7 +87,7 @@ h3{
     width: 150px;    
 }
 
-.turma{
+.turma2{
     position: absolute;
     width: 200px;
     height: 39px;
@@ -128,7 +128,7 @@ color: #FFFFFF;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 backdrop-filter: blur(2px);
 }
-.turma1{
+.turma{
     position: absolute;
     width: 103px;
     height: 24px;
