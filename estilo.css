@@ -108,7 +108,27 @@ h3{
     backdrop-filter: blur(2px);
 }
 
-.turma2{
+.ativ{
+    position: absolute;
+width: 200px;
+height: 39px;
+left: 1187px;
+top: 175px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2px);
+}
+.turma1{
     position: absolute;
     width: 103px;
     height: 24px;
@@ -124,7 +144,23 @@ h3{
     
     color: #FFFFFF;
 }
-.lateral {
+.ativ2{
+    position: absolute;
+    width: 59px;
+    height: 24px;
+    left: 1187px;
+    top: 227px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    
+    color: #FFFFFF;
+}
+.lateral1 {
 position: absolute;
 width: 287px;
 height: 761px;
