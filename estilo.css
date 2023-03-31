@@ -191,10 +191,10 @@ background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
 footer{
     position: absolute;
-width: 1024px;
-height: 25px;
-left: 0px;
-top: 1342px;
+    width: 1440px;
+    height: 27px;
+    left: 0px;
+    top: 882px;
 
 background: #63562B;
 }
