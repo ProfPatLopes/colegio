@@ -40,7 +40,7 @@ background: url(oiprof.png);
 .lateral{
     position: absolute;
     width: 219px;
-    height: 1227px;
+    height: 764px;
     left: 0px;
     top: 115px;
     
@@ -163,10 +163,10 @@ background: #63562B;
     color:rgb(66, 56, 10);
    
     position: absolute;
-    width: 1024px;
-    height: 73px;
-    left: 0px;
-    top: 1367px;    
+    width: 1440px;
+    height: 114px;
+    left: 1px;
+    top: 903px;    
     background: linear-gradient(180deg, rgba(99, 86, 43, 0) 0%, #63562B 100%);
 
 }
