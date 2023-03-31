@@ -145,7 +145,16 @@ background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%, #42380A 37.5%);
     color: #fdfdfd;
     font-size: small; 
     font-size: 14px;
-    background-color:rgb(66, 56, 10);
+/*background-color:rgb(66, 56, 10);*/
+
+    position: absolute;
+    width: 1024px;
+    height: 25px;
+    left: 0px;
+    top: 90px;
+    
+    background: #63562B;
+
 }
 .apre {/*
     font-family: 'Lucida Sans';
