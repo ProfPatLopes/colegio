@@ -200,11 +200,13 @@ background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
 }
 footer{
+    
     position: absolute;
     width: 1440px;
     height: 27px;
-    left: 0px;
-    top: 882px;
+    left: -1px;
+    top: 600px;
+
 
     background: #63562B;
 }
@@ -217,10 +219,10 @@ footer{
     color:rgb(66, 56, 10);
    
     position: absolute;
-    width: 1440px;
-    height: 114px;
-    left: 1px;
-    top: 903px;    
+width: 1440px;
+height: 114px;
+left: 1px;
+top: 625px;  
     background: linear-gradient(180deg, rgba(99, 86, 43, 0) 0%, #63562B 100%);
 
 }
