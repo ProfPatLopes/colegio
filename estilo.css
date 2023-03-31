@@ -154,10 +154,10 @@ background: linear-gradient(180deg, rgba(66, 56, 10, 0) 100%, #42380A 37.5%);
     color:rgb(66, 56, 10);*/
     color:rgb(66, 56, 10);
     position: absolute;
-    width: 1440px;
-    height: 114px;
-    left: 0px;
-    top: 0px;
+    width: 1024px;
+    height: 90px;
+    right: 0px;
+    bottom: 1350px;
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
 .turma{
@@ -191,7 +191,7 @@ background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
 }
 .lista {
-    position: absolute;
+    
     font-family: 'Lucida Sans';
     font-size: small; 
     text-align: left;
@@ -202,8 +202,7 @@ background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
     width: 1024px;
     height: 73px;
     left: 0px;
-    top: 787px;
-    
+    top: 1367px;    
     background: linear-gradient(180deg, rgba(99, 86, 43, 0) 0%, #63562B 100%);
 
 }
