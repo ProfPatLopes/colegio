@@ -84,7 +84,42 @@ top: 148px;
 
 }
 
+.turmas{
+    position: absolute;
+width: 200px;
+height: 39px;
+left: 22px;
+top: 175px;
 
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2px);
+}
+.turma{
+    position: absolute;
+width: 59px;
+height: 24px;
+left: 22px;
+top: 227px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    
+    color: #FFFFFF;
+}
 body{
     /*background-color:rgba(160, 149, 100);
     font-family: 'Lucida Sans';
@@ -94,19 +129,6 @@ body{
     display: inline;
     font-size: 14px;*/
 }
-h3{
-    
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
-       
-}
-
-
-
 .img{
     width: 100px;    
 }
@@ -123,26 +145,7 @@ h3{
     width: 150px;    
 }
 
-.turma2{
-    position: absolute;
-    width: 200px;
-    height: 39px;
-    left: 22px;
-    top: 175px;
-    
-    font-family: 'Inter';
-    font-style: italic;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 39px;
-    /* identical to box height */
-    
-    
-    color: #FFFFFF;
-    
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
-    backdrop-filter: blur(2px);
-}
+
 
 .ativ{
     position: absolute;
@@ -164,22 +167,7 @@ color: #FFFFFF;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 backdrop-filter: blur(2px);
 }
-.turma{
-    position: absolute;
-    width: 103px;
-    height: 24px;
-    left: 22px;
-    top: 419px;
-    
-    font-family: 'Inter';
-    font-style: italic;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 24px;
-    text-decoration-line: underline;
-    
-    color: #FFFFFF;
-}
+
 .lateral2 {
     position: absolute;
     width: 292px;
