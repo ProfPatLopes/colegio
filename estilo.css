@@ -19,12 +19,12 @@ background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
 .menu {
 
     position: absolute;
-width: 1024px;
-height: 25px;
-left: 0px;
-top: 90px;
+    width: 1024px;
+    height: 25px;
+    left: 0px;
+    top: 90px;
 
-background: #63562B;
+    background: #63562B;
 }
 .prof{
     position: absolute;
@@ -38,7 +38,16 @@ background: url(oiprof);
 
 }
 
+.lateral{
+    position: absolute;
+    width: 219px;
+    height: 1227px;
+    left: 0px;
+    top: 115px;
+    
+    background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
 
+}
 
 
 body{
