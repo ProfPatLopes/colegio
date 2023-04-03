@@ -14,6 +14,33 @@
 
     background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
 }
+.apre {
+    color:rgb(66, 56, 10);
+    position: absolute;
+    width: 1440px;
+    height: 114px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
+}
+
+.oi {
+    position: absolute;
+    width: 1000px;
+    height: 23px;
+    left: 287px;
+    top: 32px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 .ola{
     position: absolute;
     width: 969px;
