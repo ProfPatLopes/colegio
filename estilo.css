@@ -10,8 +10,7 @@
 .prof{
     /*width: 25%;   */
     position: absolute;
-    width: 1440px;
-    height: 114px;
+    size:50%;
     left: 0px;
     top: 0px;
 }
