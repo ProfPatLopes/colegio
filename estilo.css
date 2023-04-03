@@ -220,11 +220,12 @@ backdrop-filter: blur(2px);
 
 footer{
     position: absolute;
-    width: 1024px;
-    height: 25px;
     left: 0px;
     top: 90px;
-    
+    width: 1440px;
+    height: 27px;
+    background: #63562B;
+
     background: #63562B;
 }
 
