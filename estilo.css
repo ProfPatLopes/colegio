@@ -8,11 +8,11 @@
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
 .prof{
-   
     position: absolute;
-    size: 120%
-    left: 0px;
-    top: 0px;
+    width: 139px;
+    height: 135px;
+    left: 149px;
+    top: -5px;
 }
 
 .oi {
