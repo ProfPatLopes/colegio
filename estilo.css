@@ -128,7 +128,7 @@ p{
 }
 
 body{
-
+    background: rgba(99, 86, 43, 0.65);
 }
 .img{
     width: 100px;    
@@ -168,7 +168,7 @@ body{
     position: absolute;
     width: 219px;
     height: 475px;
-    left: 805px;
+    left: 1000px;
     top: 145px;
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
@@ -192,7 +192,7 @@ body{
 }
 
 .itens {
-    background: rgba(99, 86, 43, 0.65);
+    
     position: absolute;
     width: 860px;
     height: 453px;
