@@ -76,8 +76,8 @@ p{
 }
 .prof{
     position: absolute;
-    width: 99px;
-    height: 63px;
+    width: 80%;
+    height: 80%;
     left: 218px;
     top: 14px;
     background: url(oiprof.png);
