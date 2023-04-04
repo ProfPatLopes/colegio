@@ -97,8 +97,6 @@ p{
     width: 200px;
     height: 39px;
     left: 22px;
-    top: 80px;
-
     font-family: 'Inter';
     font-style: italic;
     font-weight: 400;
@@ -112,8 +110,7 @@ p{
 
 .turma{
     position: absolute;
-    width: 59px;
-    height: 24px;
+   
     left: 22px;
     top: 152px;
     
