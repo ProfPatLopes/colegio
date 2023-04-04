@@ -8,9 +8,9 @@
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
 .prof{
-    /*width: 25%;   */
+   
     position: absolute;
-    size:80%;
+   
     left: 0px;
     top: 0px;
 }
