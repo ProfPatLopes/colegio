@@ -9,12 +9,11 @@
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
 .prof{
-    height: 126px;
+    position: absolute;
     width: 162px;
+    height: 126px;
     left: 218px;
     top: -6px;
-    border-radius: 0px;
-    
 }
 
 .oi {
@@ -24,8 +23,7 @@
     left: 287px;
     top: 50px;
     font-family: 'Inspiration';
-    font-style: normal;
-   
+font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 29px;
