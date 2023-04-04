@@ -9,8 +9,7 @@
 }
 .prof{
     position: absolute;
-    left: 149px;
-   
+    left: 149px;   
 }
 
 .oi {
@@ -143,16 +142,15 @@ body{
 
 .ativ{
     position: absolute;
-   
-    left: 1232px;
-    top: 100px;
-
+    width: 200px;
+    height: 39px;
+    left: 1230px;
     font-family: 'Inter';
     font-style: italic;
     font-weight: 400;
-    font-size: 32px;
+    font-size: 24px;
     line-height: 39px;
-/* identical to box height */
+    /* identical to box height */
     color: #FFFFFF;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(2px);
@@ -172,17 +170,16 @@ body{
 .ativ2{
     position: absolute;
    
-    left: 1255px;
+    left: 1230px;
     top: 152px;
     
-    font-family: 'Inter';
+    color:white;
+    font-family: 'Lucida Sans';
     font-style: italic;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 24px;
+    font-size: 16px;
+    line-height: 20px;
     text-decoration-line: underline;
-    
-    color: #FFFFFF;
 }
 
 .itens {
