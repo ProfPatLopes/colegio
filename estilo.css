@@ -1,4 +1,6 @@
-.apre {
+*{
+    margin:auto;
+}.apre {
     color:rgb(66, 56, 10);
     position: absolute;
     width: 1440px;
