@@ -81,9 +81,9 @@ p{
 
 .lateral1{
     position: absolute;
-    width: 287px;
+    width: 219px;
     height: 475px;
-    left: 1px;
+    left: 0px;
     top: 145px;
     background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
 }
@@ -162,9 +162,9 @@ body{
 
 .lateral2 {
     position: absolute;
-    width: 292px;
+    width: 219px;
     height: 475px;
-    left: 1148px;
+    left: 805px;
     top: 145px;
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
@@ -174,7 +174,7 @@ body{
     position: absolute;
     width: 59px;
     height: 24px;
-    left: 1187px;
+    left: 840px;
     top: 227px;
     
     font-family: 'Inter';
