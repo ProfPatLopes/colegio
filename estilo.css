@@ -9,10 +9,12 @@
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
 .prof{
-    position: absolute;
+    height: 126px;
+    width: 162px;
+    left: 218px;
+    top: -6px;
+    border-radius: 0px;
     
-    left: 73px;
-    top: -3px;
 }
 
 .oi {
