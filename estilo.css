@@ -145,9 +145,8 @@ body{
 
 .ativ{
     position: absolute;
-    width: 200px;
-    height: 39px;
-    left: 1187px;
+   
+    left: 1232px;
     top: 100px;
 
     font-family: 'Inter';
@@ -174,9 +173,8 @@ body{
 
 .ativ2{
     position: absolute;
-    width: 59px;
-    height: 24px;
-    left: 240px;
+   
+    left: 1255px;
     top: 152px;
     
     font-family: 'Inter';
