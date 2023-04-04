@@ -188,6 +188,7 @@ body{
 }
 
 .itens {
+    background: rgba(99, 86, 43, 0.65);
     position: absolute;
     width: 860px;
     height: 453px;
