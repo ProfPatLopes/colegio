@@ -97,7 +97,7 @@ p{
     width: 200px;
     height: 39px;
     left: 22px;
-    top: 100px;
+    top: 80px;
 
     font-family: 'Inter';
     font-style: italic;
@@ -195,7 +195,7 @@ body{
 .itens {
     
     position: absolute;
-    width: 860px;
+    width: 999px;
     height: 453px;
     left: 240px;
     top: 147px;
