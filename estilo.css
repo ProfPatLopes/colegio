@@ -141,11 +141,21 @@ body{
     width: 150px;    
 }
 
+.lateral2 {
+    position: absolute;
+    width: 220px;
+    height: 477px;
+    left: 1220px;
+
+    top: 145px;
+    background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
+
+}
 .ativ{
     position: absolute;
     width: 200px;
     height: 39px;
-    left: 830px;
+    left: 50px;
     font-family: 'Inter';
     font-style: italic;
     font-weight: 400;
@@ -157,21 +167,11 @@ body{
     backdrop-filter: blur(2px);
 }
 
-.lateral2 {
-    position: absolute;
-    width: 220px;
-    height: 477px;
-    left: 1220px;
-
-    top: 145px;
-    background: linear-gradient(180deg, #63562B 0%, rgba(99, 86, 43, 0) 100%);
-
-}
 
 .ativ2{
     position: absolute;
    
-    left: 830px;
+    left: 50px;
     top: 152px;
     
     color:white;
