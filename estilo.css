@@ -97,7 +97,7 @@ p{
     width: 200px;
     height: 39px;
     left: 22px;
-    top: 175px;
+    top: 100px;
 
     font-family: 'Inter';
     font-style: italic;
@@ -115,7 +115,7 @@ p{
     width: 59px;
     height: 24px;
     left: 22px;
-    top: 227px;
+    top: 152px;
     
     font-family: 'Inter';
     font-style: italic;
@@ -151,7 +151,7 @@ body{
     width: 200px;
     height: 39px;
     left: 1187px;
-    top: 175px;
+    top: 100px;
 
     font-family: 'Inter';
     font-style: italic;
@@ -168,7 +168,7 @@ body{
     position: absolute;
     width: 219px;
     height: 475px;
-    left: 1000px;
+    left: 1100px;
     top: 145px;
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 
@@ -178,8 +178,8 @@ body{
     position: absolute;
     width: 59px;
     height: 24px;
-    left: 840px;
-    top: 227px;
+    left: 240px;
+    top: 152px;
     
     font-family: 'Inter';
     font-style: italic;
@@ -196,7 +196,7 @@ body{
     position: absolute;
     width: 860px;
     height: 453px;
-    left: 288px;
+    left: 240px;
     top: 147px;
 }
 
