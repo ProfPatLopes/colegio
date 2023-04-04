@@ -11,8 +11,9 @@
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
 .prof{
-    top: -20px;
-    
+    top: -20px;  
+    width: 30%;
+    height: 30%;  
 }
 
 .oi {
