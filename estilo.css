@@ -10,8 +10,11 @@
 }
 .prof{
     position: absolute;
-    left: 218px;
-    top: -6px;
+    width: 111px;
+    height: 117px;
+    left: 73px;
+    top: -3px;
+
 }
 
 .oi {
