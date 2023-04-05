@@ -1,4 +1,11 @@
+.prof{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    left: 73px;
+    top: -3px;
 
+}
 .apre {
     color:rgb(66, 56, 10);
     position: absolute;
@@ -8,14 +15,7 @@
     top: 0px;
     background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
-.prof{
-    position: absolute;
-    width: 80%;
-    height: 80%;
-    left: 73px;
-    top: -3px;
 
-}
 
 .oi {
     position: absolute;
