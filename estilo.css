@@ -74,6 +74,9 @@ p{
     top: 119px;
     background: #63562B;
 }
+.tab-menu{
+    padding: 4px;
+}
 .prof{
     position: absolute;
     width: 80%;
