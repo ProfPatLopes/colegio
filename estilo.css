@@ -302,7 +302,7 @@ body{
 
 }
 .ativ{
-    position: absolute;
+    top:10px;
     width: 160px;
     
     left: 50px;
