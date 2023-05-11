@@ -131,7 +131,7 @@ p{
     backdrop-filter: blur(2px);
 }
 
-.turma{
+.turma1{
     position: absolute;
    
     left: 22px;
@@ -147,6 +147,36 @@ p{
     
 }
 
+.turma2{
+    position: absolute;
+   
+    left: 22px;
+    top: 162px;
+    
+    color:white;
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    
+}
+.turma3{
+    position: absolute;
+   
+    left: 22px;
+    top: 172px;
+    
+    color:white;
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    
+}
 body{
     background: rgba(99, 86, 43, 0.65);
 }
