@@ -134,7 +134,7 @@ p{
     backdrop-filter: blur(2px);
 }
 .turmas-itens1{
-    top:100px;
+    top:60px;
     width: 180px;
     
     left: 22px;
@@ -149,7 +149,7 @@ p{
     backdrop-filter: blur(2px);
 }
 .turmas-itens2{
-    top:200px;
+    top:160px;
     width: 180px;
     
     left: 22px;
@@ -164,7 +164,7 @@ p{
     backdrop-filter: blur(2px);
 }
 .turmas-itens3{
-    top:300px;
+    top:260px;
     width: 180px;
     
     left: 22px;
@@ -182,7 +182,7 @@ p{
     position: absolute;
    
     left: 22px;
-    top: 60px;
+    top: 100px;
     
     color:white;
     font-family: 'Lucida Sans';
@@ -198,7 +198,7 @@ p{
     position: absolute;
    
     left: 22px;
-    top: 160px;
+    top: 200px;
     
     color:white;
     font-family: 'Lucida Sans';
@@ -213,7 +213,7 @@ p{
     position: absolute;
    
     left: 22px;
-    top: 260px;
+    top: 300px;
     
     color:white;
     font-family: 'Lucida Sans';
