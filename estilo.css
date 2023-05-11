@@ -146,8 +146,8 @@ p{
     backdrop-filter: blur(2px);
 }
 .turmas-itens2{
-    top:130px;
-    width: 280px;
+    top:180px;
+    width: 180px;
     
     left: 22px;
     font-family: 'Inter';
@@ -161,8 +161,8 @@ p{
     backdrop-filter: blur(2px);
 }
 .turmas-itens3{
-    top:180px;
-    width: 380px;
+    top:280px;
+    width: 180px;
     
     left: 22px;
     font-family: 'Inter';
