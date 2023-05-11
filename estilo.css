@@ -101,13 +101,13 @@ p{
 .turmas{
     position: absolute;
     width: 180px;
-    height: 39px;
+    
     left: 22px;
     font-family: 'Inter';
     font-style: italic;
-    font-weight: 400;
+    
     font-size: 24px;
-    line-height: 39px;
+   
     /* identical to box height */
     color: #FFFFFF;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -222,7 +222,6 @@ footer{
     left: -1px;
     top: 600px;
     width: 1440px;
-    height: 27px;
     background: #63562B;
 }
 
